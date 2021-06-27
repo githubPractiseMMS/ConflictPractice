@@ -105,5 +105,12 @@ namespace gitPracticeMVC
         {
             return _context.Products.Any(e => e.Id == id);
         }
+
+
+        //  Conflict here. mutaz
+        private string Conflicted()
+        {
+            return "Nothing to see here";
+        }
     }
 }
