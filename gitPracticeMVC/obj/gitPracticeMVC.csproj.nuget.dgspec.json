@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lenovo1\\RiderProjects\\gitPracticeMVC\\gitPracticeMVC\\gitPracticeMVC.csproj": {}
+    "C:\\Users\\rooke\\Desktop\\ConflictPractice\\gitPracticeMVC\\gitPracticeMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lenovo1\\RiderProjects\\gitPracticeMVC\\gitPracticeMVC\\gitPracticeMVC.csproj": {
+    "C:\\Users\\rooke\\Desktop\\ConflictPractice\\gitPracticeMVC\\gitPracticeMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lenovo1\\RiderProjects\\gitPracticeMVC\\gitPracticeMVC\\gitPracticeMVC.csproj",
+        "projectUniqueName": "C:\\Users\\rooke\\Desktop\\ConflictPractice\\gitPracticeMVC\\gitPracticeMVC.csproj",
         "projectName": "gitPracticeMVC",
-        "projectPath": "C:\\Users\\lenovo1\\RiderProjects\\gitPracticeMVC\\gitPracticeMVC\\gitPracticeMVC.csproj",
-        "packagesPath": "C:\\Users\\lenovo1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lenovo1\\RiderProjects\\gitPracticeMVC\\gitPracticeMVC\\obj\\",
+        "projectPath": "C:\\Users\\rooke\\Desktop\\ConflictPractice\\gitPracticeMVC\\gitPracticeMVC.csproj",
+        "packagesPath": "C:\\Users\\rooke\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rooke\\Desktop\\ConflictPractice\\gitPracticeMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lenovo1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rooke\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -91,7 +91,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
