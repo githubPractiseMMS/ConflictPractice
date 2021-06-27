@@ -105,5 +105,13 @@ namespace gitPracticeMVC
         {
             return _context.Products.Any(e => e.Id == id);
         }
+        
+        
+        // Test For Git Conflict 
+        public void DummyMethod()
+        {
+            Console.WriteLine("Hello");
+        }
+        
     }
 }
