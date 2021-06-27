@@ -107,10 +107,20 @@ namespace gitPracticeMVC
         }
 
 
+
         //  Conflict here. mutaz
         private string Conflicted()
         {
             return "Nothing to see here";
         }
+
+        
+        
+        // Test For Git Conflict 
+        public void DummyMethod()
+        {
+            Console.WriteLine("Hello");
+        }
+        
     }
 }
